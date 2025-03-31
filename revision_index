@@ -1,0 +1,83 @@
+<html>
+        <head>
+                   <title> revisão de linguagens html</title>
+
+        </head>
+        <body>
+
+                <a href="tabela.html">Acessa página tabelas</a>
+                                <br />
+                <a href="formularios.html">Entre em contato pelo formulário </a>
+          
+               
+        <h2> Tag Input Auto Fechante</h2>
+        <p>
+
+             <input /><br />
+             A tag input serve para o usuário digitar alguma coisa
+
+        </p>
+        <hr/>      
+        
+        
+        <h2> Tag Img Auto Fechante</h2>
+        <p>
+  
+             <img src="yurialberto.jpeg"width="150"height="100" />
+             A tag img permite colocar imagem na página
+        </p>
+        <hr/>
+
+
+        <h2> Tag Button<h2>
+        <button>
+            Salvar alterações
+        </button> <br/>
+        A Tag Button significa um botão para o usuário clicar 
+
+        <hr/>
+ 
+        <h2> Tag BR Auto Fechante</h2>
+        <p>
+
+            A tag BR <br/> quebra linha
+
+        </p>
+        <hr/>
+      
+        <h1> Outras Tags essenciais</h1>
+        <p>
+        
+        <ol>
+            <li>html: Define o início e o fim de um documento HTML.
+            <li>a: Cria um link.
+            <li>ul: Define uma lista não ordenada.
+            <li>div: Cria uma divisão ou seção genérica de conteúdo.
+            <li>span: Cria uma seção em linha para agrupar texto ou elementos.
+            <li>form: Cria um formulário para entrada de dados do usuário.
+            <li>table: Define uma tabela.
+            <li>body: Contém o conteúdo visível da página           
+            <li>td: Define uma célula de dados dentro de uma linha de tabela.
+            <li>tr: Define uma linha dentro de uma tabela.
+            <li>head: Contém metadados sobre o documento, como título, links para estilos e scripts.
+            <li>ol: Define uma lista ordenada.
+            <li>strong: é usada para indicar que o conteúdo dentro dela tem ênfase forte, o negrito.
+            <li>header define o cabeçalho de uma página
+            <li>main define o conteúdo principal da página
+            <li>aside define o conteúdo relacionado ao conteúdo principal
+            <li>footer define o rodapé 
+
+
+                <h1>Conteúdo css</h1>
+
+
+            <li>O css permite aplicar cores, bordas, tamanhos, margens
+            <li>o css deve ser utilizado para estilizar a página
+            <li>height define a altura
+            <li>width define a largura
+            <li>margin 0 auto define as margens superior e inferior de um elemento como 0, e centraliza-o no horizonte                          
+            
+                
+        
+       
+        
