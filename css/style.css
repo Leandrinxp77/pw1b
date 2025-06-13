@@ -37,14 +37,14 @@ main {
 .pokemon__data {
   position: absolute;
   font-weight: 600;
-  color: rgba(57, 51, 65, 0.733);
+  color: rgba(2, 2, 2, 0.938);
   top: 54.5%;
   right: 27%;
   font-size: clamp(8px, 5vw, 25px);
 }
 
 .pokemon__name {
-  color: #3a444d;
+  color: #0a0a0a;
   text-transform: capitalize;
 }
 
@@ -85,11 +85,24 @@ main {
   font-size: clamp(8px, 5vw, 1rem);
   font-weight: 600;
   color: white;
-  background-color: #444;
-  box-shadow: -2px 3px 0 rgb(34, 34, 34), -4px 6px 0 rgb(6, 181, 187);
+  background-color: rgb(8, 3, 3);
+  box-shadow: -2px 3px 0 rgb(4, 179, 202), -4px 6px 0 rgb(6, 181, 187);
 }
 
 .button:active {
   box-shadow: inset -4px 4px 0 rgba(5, 194, 201, 0.884);
   font-size: 0.9rem;
+}
+
+#abilityButton {
+  background-color: #050505; /* Verde */
+  box-shadow: -2px 3px 0 rgb(4, 179, 202), -4px 6px 0 rgb(6, 181, 187);
+  color: white;
+  padding: 4%;
+  border: 2px solid #000;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: clamp(8px, 5vw, 1rem);
+  font-weight: 600;
+  width: 50%;
 }
