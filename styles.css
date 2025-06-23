@@ -1,0 +1,23 @@
+html, body{
+    padding: 0%;
+    height: 100%;
+}
+body{
+    background-image: url('images/fundo2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cfb9c6;
+}
+.container{
+    color: #8a0b0b;
+    text-transform: capitalize;    
+  }
+
+
+    
+
+
